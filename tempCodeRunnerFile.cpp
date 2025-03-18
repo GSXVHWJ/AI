@@ -1,0 +1,1 @@
+ // processes[i].waiting_time =0;
